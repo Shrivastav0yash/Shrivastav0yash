@@ -145,12 +145,12 @@ Fitness web application with structured workout routines and responsive frontend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrivastav0yash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrivastav0yash&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="170" />
   <img src="https://streak-stats.demolab.com?user=Shrivastav0yash&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrivastav0yash&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrivastav0yash&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170" />
 </p>
 
 ---
