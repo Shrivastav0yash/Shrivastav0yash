@@ -149,8 +149,10 @@ Fitness web application with structured workout routines and responsive frontend
   <img src="https://streak-stats.demolab.com?user=Shrivastav0yash&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
+## 🧠 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrivastav0yash&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=850&lines=Java+%7C+SQL+%7C+JavaScript;HTML+%7C+CSS;Backend+Focused+Development" alt="Top Languages Animation" />
 </p>
 
 ---
