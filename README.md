@@ -32,7 +32,8 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 - Spring Data JPA  
 - Spring Security  
 - Hibernate  
-- REST APIs  
+- REST APIs
+- Mircoservices
 
 ---
 
