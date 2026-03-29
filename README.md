@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Java | Spring Boot | REST APIs | SQL | DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&height=70&lines=Scalable+Backend+Systems;Clean+REST+API+Development;SQL+%26+Database+Optimization;Practicing+DSA+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Scalable+Backend+Systems;Clean+REST+API+Development;SQL+%26+Database+Optimization;Practicing+DSA+Daily" alt="Typing SVG" />
 </p>
 
 ---
