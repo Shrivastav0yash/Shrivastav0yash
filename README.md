@@ -181,25 +181,20 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shrivastav0yash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrivastav0yash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="170"/>
-
-<br/><br/>
-
+ 
 <img src="https://streak-stats.demolab.com?user=Shrivastav0yash&theme=tokyonight&hide_border=true" height="150"/>
-
-<br/><br/>
-
+ 
+<br/>
+ 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrivastav0yash&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
-
+ 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&height=70&lines=Java+%E2%80%A2+SQL+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Languages Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Java+%E2%80%A2+SQL+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Languages Animation" />
 </p>
 
 ---
