@@ -199,6 +199,10 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
  
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Java+%E2%80%A2+SQL+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Languages Animation" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
