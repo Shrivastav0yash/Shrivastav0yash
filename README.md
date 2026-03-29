@@ -132,8 +132,8 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Hospital Management API</h3>
-      <p>Full-featured Spring Boot REST API for managing hospital operations — patients, doctors, appointments. Built with Spring Data JPA, MySQL, and layered architecture.</p>
+      <h3>🏥 Hospital Management System - Spring JPA</h3>
+      <p>Full-featured Spring JPA for managing hospital operations — patients, doctors, appointments. Built with Spring Data JPA, MySQL, and layered architecture.</p>
       <a href="https://github.com/Shrivastav0yash/Spring-JPA-Hospital-Management-App">
         <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -143,8 +143,8 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📓 Journal REST API</h3>
-      <p>Production-ready Journal API using Spring Boot 3, Java 21, Spring Data JPA, and MySQL. Implements clean layered architecture with RESTful design principles.</p>
+      <h3>📓 Journal App - Spring Boot</h3>
+      <p>Production-ready Journal APP using Spring Boot 3, Java 21, Spring Data JPA, and MySQL. Implements clean layered architecture with RESTful design principles.</p>
       <a href="https://github.com/Shrivastav0yash/Spring-boot-Journal-App">
         <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
