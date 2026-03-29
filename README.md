@@ -128,17 +128,55 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 
 ## 💼 Featured Projects
 
-### 🏥 Spring JPA Hospital Management App
-Backend application for managing patients, doctors, and appointments using Spring Boot, Spring Data JPA, and MySQL.
-
-### 📘 DSA Questions JAVA
-Structured Java-based DSA repository with topic-wise solutions, optimized approaches, and consistent practice.
-
-### 📝 Spring Boot Journal App
-REST API project built with Spring Boot and MySQL using clean layered architecture and persistent storage.
-
-### 💪 Fit Forever
-Fitness web application with structured workout routines and responsive frontend implementation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Management API</h3>
+      <p>Full-featured Spring Boot REST API for managing hospital operations — patients, doctors, appointments. Built with Spring Data JPA, MySQL, and layered architecture.</p>
+      <a href="https://github.com/Shrivastav0yash/Spring-JPA-Hospital-Management-App">
+        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📓 Journal REST API</h3>
+      <p>Production-ready Journal API using Spring Boot 3, Java 21, Spring Data JPA, and MySQL. Implements clean layered architecture with RESTful design principles.</p>
+      <a href="https://github.com/Shrivastav0yash/Spring-boot-Journal-App">
+        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ DSA Practice — Java</h3>
+      <p>Topic-wise DSA repository with optimized solutions in Java. Covers Arrays, Sliding Window, HashMap, and more — updated daily as part of consistent interview prep.</p>
+      <a href="https://github.com/Shrivastav0yash/Dsa-Questions-JAVA">
+        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DSA-005571?style=flat&logo=leetcode&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 Fit Forever</h3>
+      <p>Full-stack fitness web application with structured workout routines across multiple muscle groups. Responsive UI built with Bootstrap and interactive JS features.</p>
+      <a href="https://github.com/Shrivastav0yash/Fit-Forever.github.io">
+        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
