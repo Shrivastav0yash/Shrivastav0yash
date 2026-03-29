@@ -111,12 +111,18 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 
 ## 🧩 Problem Solving
 
-- Strong knowledge of **Data Structures and Algorithms**
-- Practicing **DSA daily** to improve:
-  - problem-solving approach
-  - coding efficiency
-  - logic building
-  - interview readiness
+<div align="center">
+ 
+| Focus Area | Status |
+|---|---|
+| Arrays & Sliding Window | ✅ Active |
+| HashMap & HashSet | ✅ Active |
+| Linked Lists | ✅ Active |
+| Trees & Graphs | 🔄 In Progress |
+| Dynamic Programming | 🔄 In Progress |
+| Interview Prep | 🎯 Daily Practice |
+ 
+</div>
 
 ---
 
