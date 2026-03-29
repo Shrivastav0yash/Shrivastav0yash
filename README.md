@@ -1,18 +1,9 @@
-div align="center">
- 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yash%20Shrivastav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Ecosystem&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
- 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;DevOps+%7C+Docker+%7C+AWS+%7C+Jenkins;DSA+Daily+Grind+%E2%9A%94%EF%B8%8F;Clean+Code+%7C+Test+Coverage+80%25%2B" alt="Typing SVG" />
- 
-<br/>
- 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Shrivastav0yash&style=for-the-badge&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/Shrivastav0yash?style=for-the-badge&color=0e75b6)](https://github.com/Shrivastav0yash)
- 
-</div>
+<h1 align="center">Hi 👋, I'm Yash Shrivastav</h1>
+<h3 align="center">Backend Developer | Java | Spring Boot | REST APIs | SQL | DevOps</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&height=70&lines=Scalable+Backend+Systems;Clean+REST+API+Development;SQL+%26+Database+Optimization;Practicing+DSA+Daily" alt="Typing SVG" />
+</p>
 
 ---
 
