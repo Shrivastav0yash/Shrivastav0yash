@@ -2,17 +2,18 @@
 <h3 align="center">Backend Developer | Java | Spring Boot | REST APIs | SQL | DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=850&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;SQL+%7C+DevOps+%7C+System+Building;Practicing+DSA+Daily+for+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;SQL+%7C+DevOps;Practicing+DSA+Daily" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-Backend Developer with hands-on experience in building scalable Java-based applications using the Spring ecosystem.  
-Strong foundation in backend architecture, REST API development, database design, authentication, testing, and deployment workflows.
+Backend Developer focused on building scalable Java applications using the Spring ecosystem.
 
-I also practice **DSA on a daily basis** to continuously improve problem-solving, logic building, and coding efficiency.
+Experienced in REST API development, authentication, database design, SQL optimization, testing, and backend project architecture.
+
+I also practice DSA daily to sharpen problem-solving, logic building, and coding efficiency.
 
 ---
 
@@ -125,9 +126,19 @@ I also practice **DSA on a daily basis** to continuously improve problem-solving
 - A new backend-focused project is currently in progress  
 - Will be updated here soon
 
-### 📌 Featured Work
-- **Forever**  
-  Project details and updates will be added here soon
+## 💼 Featured Projects
+
+### 🏥 Spring JPA Hospital Management App
+Backend application for managing patients, doctors, and appointments using Spring Boot, Spring Data JPA, and MySQL.
+
+### 📘 DSA Questions JAVA
+Structured Java-based DSA repository with topic-wise solutions, optimized approaches, and consistent practice.
+
+### 📝 Spring Boot Journal App
+REST API project built with Spring Boot and MySQL using clean layered architecture and persistent storage.
+
+### 💪 Fit Forever
+Fitness web application with structured workout routines and responsive frontend implementation.
 
 ---
 
@@ -149,7 +160,7 @@ I also practice **DSA on a daily basis** to continuously improve problem-solving
 
 ## 🌐 Connect With Me
 
-email : yashshrivastav8979@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashshrivastav8979@gmail.com)
 
 ---
 
