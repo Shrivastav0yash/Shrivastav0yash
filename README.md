@@ -132,8 +132,8 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Hospital Management System - Spring JPA</h3>
-      <p>Full-featured Spring JPA for managing hospital operations — patients, doctors, appointments. Built with Spring Data JPA, MySQL, and layered architecture.</p>
+      <h3>🏥 Hospital Management System - Spring Boot</h3>
+      <p>Developed a Hospital Management REST API using Spring Boot, JPA, MySQL, DTOs, and Spring Security to manage doctors, patients, appointments, and backend workflows.</p>
       <a href="https://github.com/Shrivastav0yash/Spring-JPA-Hospital-Management-App">
         <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
