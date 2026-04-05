@@ -203,9 +203,10 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashshrivastav8979@gmail.com)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-shrivastav-286b96200/)
+&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Thunderbolt021/)
-
 
 ---
 
